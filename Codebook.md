@@ -1,4 +1,19 @@
-# code book dataset2
+# approach 
+
+- load file from Coursera and unzip
+	- x_train, y_train, x_test, y_test, subject_train are the files containing the data 
+- rbind() to merge files that belong together
+	- datasetx, datasety and datasets are the merged datasets of the stored files
+- for datasetx the column names were created with the help of features.txt 
+- the same was made for activities through activity_labels.txt
+- cbind () merges the three datasets prepared datasets
+	-dataset1 the data set with all data into one 
+- aggregate(. ~subject + activity, dataset1, mean) creats a data set with the average of each variable for each activity and each subject
+	-dataset2 is the final data set
+
+
+
+# code book description of variables
 
 ###subject:	
 -1:30 number of the volunteer
