@@ -7,9 +7,9 @@
 - for datasetx the column names were created with the help of features.txt 
 - the same was made for activities through activity_labels.txt
 - cbind () merges the three datasets prepared datasets
-	-dataset1 the data set with all data into one 
+	- dataset1 the data set with all data into one 
 - aggregate(. ~subject + activity, dataset1, mean) creats a data set with the average of each variable for each activity and each subject
-	-dataset2 is the final data set
+	- dataset2 is the final data set
 
 
 
