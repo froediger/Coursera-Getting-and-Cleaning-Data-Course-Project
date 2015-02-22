@@ -2,7 +2,8 @@
 
 subject: 1:30 number of the volunteer
 
-activity: performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
+activity:
+performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
 	LAYING
 	SITTING
 	STANDING
@@ -19,23 +20,25 @@ the magnitude of these three-dimensional signals were calculated using the Eucli
 Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag
 Each KPI has the mean value and standard deviation
 
-tBodyAcc-mean()-X		- mean for body acceleration signal x
+tBodyAcc-mean()-X		
+- mean for body acceleration signal x
+
 tBodyAcc-mean()-Y		- mean for body acceleration signal y
 tBodyAcc-mean()-Z		- mean for body acceleration signal z
 tBodyAcc-std()-X		- standard deviation for body acceleration signal x
 tBodyAcc-std()-Y		- standard deviation for body acceleration signal y
 tBodyAcc-std()-Z		- standard deviation for body acceleration signal z
-tGravityAcc-mean()-X	- mean for gravity acceleration signal x
-tGravityAcc-mean()-Y	- mean for gravity acceleration signal y
-tGravityAcc-mean()-Z	- mean for gravity acceleration signal z
+tGravityAcc-mean()-X		- mean for gravity acceleration signal x
+tGravityAcc-mean()-Y		- mean for gravity acceleration signal y
+tGravityAcc-mean()-Z		- mean for gravity acceleration signal z
 tGravityAcc-std()-X		- standard deviation for gravity acceleration signal x
 tGravityAcc-std()-Y		- standard deviation for gravity acceleration signal y
 tGravityAcc-std()-Z		- standard deviation for gravity acceleration signal z
-tBodyAccJerk-mean()-X	- mean for body linear acceleration derived in time signal x
-tBodyAccJerk-mean()-Y	- mean for body linear acceleration derived in time signal y
-tBodyAccJerk-mean()-Z	- mean for body linear acceleration derived in time signal z
-tBodyAccJerk-std()-X	- standard deviation for body linear acceleration derived in time signal x
-tBodyAccJerk-std()-Y	- standard deviation for body linear acceleration derived in time signal y
+tBodyAccJerk-mean()-X		- mean for body linear acceleration derived in time signal x
+tBodyAccJerk-mean()-Y		- mean for body linear acceleration derived in time signal y
+tBodyAccJerk-mean()-Z		- mean for body linear acceleration derived in time signal z
+tBodyAccJerk-std()-X		- standard deviation for body linear acceleration derived in time signal x
+tBodyAccJerk-std()-Y		- standard deviation for body linear acceleration derived in time signal y
 tBodyAccJerk-std()-Z		- standard deviation for body linear acceleration derived in time signal z
 tBodyGyro-mean()-X		- mean for body angular velocity signal x
 tBodyGyro-mean()-Y		- mean for body angular velocity signal y
