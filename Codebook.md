@@ -13,7 +13,7 @@ performed activity while wearing a a smartphone (Samsung Galaxy S II) on the wai
 -WALKING_DOWNSTAIRS
 -WALKING_UPSTAIRS
 
-
+   
 
 The remaining columns show the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ (XYZ is used to denote 3-axial signals in the X, Y and Z directions)
 
