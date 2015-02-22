@@ -1,9 +1,9 @@
-## code book dataset2
+# code book dataset2
 
-#subject:	
+###subject:	
 -1:30 number of the volunteer
 
-#activity:	
+###activity:	
 performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
 	-LAYING
 	-SITTING
@@ -21,7 +21,7 @@ the magnitude of these three-dimensional signals were calculated using the Eucli
 Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag
 Each KPI has the mean value and standard deviation
 
-#tBodyAcc-mean()-X		
+###tBodyAcc-mean()-X		
 - mean for body acceleration signal x
 
 tBodyAcc-mean()-Y		
