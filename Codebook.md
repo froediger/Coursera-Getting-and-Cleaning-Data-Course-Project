@@ -5,6 +5,7 @@
 
 ###activity:	
 performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
+
 -LAYING
 -SITTING
 -STANDING
