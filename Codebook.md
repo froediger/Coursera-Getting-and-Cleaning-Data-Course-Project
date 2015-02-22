@@ -1,15 +1,16 @@
 ## code book dataset2
 
-subject: 1:30 number of the volunteer
+subject:
+-1:30 number of the volunteer
 
 activity:
 performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
-	LAYING
-	SITTING
-	STANDING
-	WALKING
-	WALKING_DOWNSTAIRS
-	WALKING_UPSTAIRS
+	-LAYING
+	-SITTING
+	-STANDING
+	-WALKING
+	-WALKING_DOWNSTAIRS
+	-WALKING_UPSTAIRS
 
 
 
