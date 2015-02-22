@@ -7,11 +7,11 @@
 performed activity while wearing a a smartphone (Samsung Galaxy S II) on the waist
    
 -LAYING  
--SITTING 
+-SITTING    
 -STANDING   
--WALKING 
--WALKING_DOWNSTAIRS  
--WALKING_UPSTAIRS 
+-WALKING    
+-WALKING_DOWNSTAIRS    
+-WALKING_UPSTAIRS    
 
          
 
