@@ -13,7 +13,7 @@
 
 
 
-# code book description of variables
+# code book - description of variables
 
 ###subject:	
 -1:30 number of the volunteer
