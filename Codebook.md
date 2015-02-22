@@ -13,6 +13,8 @@ performed activity while wearing a a smartphone (Samsung Galaxy S II) on the wai
 -WALKING_DOWNSTAIRS
 -WALKING_UPSTAIRS
 
+
+
 The remaining columns show the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ (XYZ is used to denote 3-axial signals in the X, Y and Z directions)
 
 whereas the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ), 
@@ -24,6 +26,8 @@ the magnitude of these three-dimensional signals were calculated using the Eucli
 Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ,
 fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag
 Each KPI has the mean value and standard deviation
+
+
 
 ###tBodyAcc-mean()-X		
 - mean for body acceleration signal x
